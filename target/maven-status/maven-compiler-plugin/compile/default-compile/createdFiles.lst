@@ -1,2 +1,6 @@
-com\mycompany\jogodavelhamaven\NewClass.class
-com\mycompany\jogodavelhamaven\NewClass1.class
+br\com\ifpe\may\jogoVelha\NewClass.class
+br\com\ifpe\may\jogoVelha\Tabuleiro.class
+br\com\ifpe\may\jogoVelha\Jogador.class
+br\com\ifpe\may\jogoVelha\JogoRest.class
+br\com\ifpe\may\jogoVelha\JogoWebService.class
+br\com\ifpe\may\jogoVelha\Jogo.class
